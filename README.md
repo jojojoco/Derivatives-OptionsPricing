@@ -1,1 +1,1 @@
-# Derivatives-OptionsPricing
+# Derivatives-OptionPricing
